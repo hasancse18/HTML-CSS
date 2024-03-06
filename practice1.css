@@ -1,0 +1,42 @@
+body{
+	margin:0;
+}
+.zero{
+	height:150px;
+	background-color:green;
+}
+.one .two{
+	height:100px;
+	width:25%;
+	color:red;
+	background-color:black;
+	float:left;
+}
+
+.one .three{
+	height:100px;
+	width:25%;
+	background-color:red;
+	overflow:hidden;
+	float:left;
+}
+.one .four{
+	height:100px;
+	width:25%;
+	background-color:yellow;
+	overflow:hidden;
+	float:left;
+}
+.one .five{
+	height:100px;
+	width:25%;
+	background-color:black;
+	color:white;
+	overflow:hidden;
+}
+.foot{
+	height:150px;
+	background-color:purple;
+}
+
+

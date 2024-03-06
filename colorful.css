@@ -1,0 +1,29 @@
+body{
+	margin:0;
+}
+
+.top{
+	height:350px;
+}
+
+.top .first{
+	margin-top:30px;
+	height:350px;
+	width:33.33%;
+	background:red;
+	float:left;
+}
+.top .second{
+	margin-top:10px;
+	height:350px;
+	width:33.33%;
+	background:black;
+	float:left;
+	overflow:hidden;
+}
+.top .third{
+	height:350px;
+	width:33.33%;
+	background:yellow;
+	float:right;
+}

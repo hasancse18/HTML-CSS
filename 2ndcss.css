@@ -1,0 +1,61 @@
+body{
+	margin:0;
+}
+.matha{
+	height:50px;
+	color:red;
+	background-color:green;
+ 
+}
+
+
+.bodys{
+	width:400px;
+	height:500px;
+	color:white;
+	background-color:red;
+	
+	overflow:hidden;
+	float:left;
+	
+}
+.pa{
+	width:500px;
+	height:500px;
+	color:white;
+	background-color:black;
+	
+	float:left;
+	overflow:hidden;
+}
+.right{
+	margin:0;
+	width:425px;
+	height:500px;
+	color:blue;
+	background-color:yellow;
+	overflow:hidden;
+	
+}
+.x .y{
+	width:400px;
+	height:500px;
+	background-color:yellow;
+	float:left;
+}
+.x .z{
+	width:500px;
+	height:500px;
+	background-color:red;
+	overflow:hidden;
+	float:left;
+}
+.x .w{
+	width:425px;
+	height:500px;
+	color:white;
+	background-color:black;
+	overflow:hidden;
+}
+
+	
